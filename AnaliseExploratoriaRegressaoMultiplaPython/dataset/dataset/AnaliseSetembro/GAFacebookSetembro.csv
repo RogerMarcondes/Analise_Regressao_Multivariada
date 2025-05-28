@@ -1,0 +1,382 @@
+# ----------------------------------------
+# Todos os dados do website
+# Face Relatório
+# 20210901-20210930
+# ----------------------------------------
+
+Campanha,Data,Sessões,/delivery - Soma 'Peça Agora'(14) e 'Veja o Cardápio Completo'(12) (Conclusões da meta 13),Usuários
+conv_lp_semana_do_gelato,20210924,5.183,319,5.026
+conv_lp_semana_do_gelato,20210923,4.987,342,4.844
+conv_lp_semana_do_gelato,20210925,4.075,214,3.965
+conv_lp_semana_do_gelato,20210920,3.917,200,3.826
+conv_lp_semana_do_gelato,20210921,3.626,170,3.528
+conv_lp_semana_do_gelato,20210922,3.247,182,3.207
+conv_lp_semana_do_gelato,20210926,2.689,175,2.603
+conv_meio_lal_site,20210912,1.513,403,1.665
+conv_meio_lal_site,20210919,1.483,435,1.599
+conv_meio_lal_site,20210930,1.359,335,1.427
+conv_fundo_rmkt_site,20210912,1.290,440,1.229
+conv_meio_lal_site,20210914,1.245,367,1.333
+conv_meio_lal_site,20210911,1.234,316,1.356
+conv_meio_lal_site,20210929,1.206,314,1.287
+conv_meio_lal_site,20210918,1.203,357,1.313
+conv_fundo_rmkt_site,20210930,1.166,325,1.128
+conv_fundo_rmkt_site,20210907,1.145,457,1.100
+conv_fundo_rmkt_site,20210909,1.144,338,1.101
+conv_fundo_rmkt_site,20210911,1.137,405,1.099
+conv_fundo_rmkt_site,20210908,1.133,365,1.075
+conv_meio_lal_site,20210928,1.133,378,1.196
+conv_meio_lal_site,20210926,1.130,389,1.177
+conv_fundo_rmkt_site,20210929,1.078,299,1.058
+conv_meio_lal_site,20210902,1.078,496,1.063
+conv_meio_lal_site,20210921,1.068,273,1.151
+conv_fundo_rmkt_site,20210914,1.048,378,992
+conv_meio_lal_site,20210907,1.038,433,1.028
+conv_fundo_rmkt_site,20210919,1.013,376,972
+conv_meio_lal_site,20210909,1.012,354,998
+conv_fundo_rmkt_site,20210925,1.006,367,970
+conv_meio_lal_site,20210925,1.006,350,991
+conv_meio_lal_site,20210922,967,260,1.037
+conv_meio_lal_site,20210901,958,439,948
+conv_fundo_rmkt_site,20210918,936,323,911
+conv_meio_lal_site,20210903,935,321,925
+conv_fundo_rmkt_site,20210926,922,349,876
+conv_meio_lal_site,20210916,907,269,986
+conv_meio_lal_site,20210908,869,297,858
+conv_fundo_rmkt_site,20210924,824,278,798
+conv_meio_lal_site,20210913,821,219,886
+conv_fundo_rmkt_site,20210916,817,277,779
+conv_meio_lal_site,20210924,812,280,804
+conv_fundo_rmkt_site,20210928,809,286,778
+conv_meio_lal_site,20210917,797,219,863
+conv_meio_lal_site,20210920,776,222,834
+conv_fundo_rmkt_site,20210927,770,259,741
+conv_fundo_rmkt_site,20210921,768,252,737
+conv_meio_lal_site,20210927,761,331,753
+conv_fundo_rmkt_site,20210910,755,259,733
+conv_meio_lal_site,20210910,754,220,847
+conv_fundo_rmkt_site,20210903,733,231,706
+conv_fundo_rmkt_site,20210917,717,207,684
+conv_fundo_rmkt_site,20210905,705,333,676
+conv_fundo_rmkt_site,20210906,677,275,655
+conv_meio_lal_site,20210906,671,288,656
+conv_fundo_rmkt_site,20210913,661,221,636
+conv_fundo_rmkt_site,20210902,656,281,632
+conv_fundo_rmkt_site,20210904,643,255,624
+conv_fundo_rmkt_site,20210923,643,213,623
+conv_meio_lal_site,20210923,638,227,631
+conv_fundo_rmkt_site,20210922,616,208,607
+conv_meio_lal_site,20210905,608,266,596
+conv_meio_lal_site,20210904,591,284,573
+conv_fundo_rmkt_site,20210920,572,176,542
+2021_brand_topo_delivery_dia-das-crianças_rec_impressions_interesses,20210929,569,1,558
+conv_meio_lal_site,20210915,554,144,576
+conv_fundo_rmkt_site,20210901,553,251,538
+conv_fundo_rmkt_site,20210915,524,202,508
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210903,414,0,404
+rec_topo_int_regioes_principale_primavera - BL,20210926,361,7,355
+2021_perf_fundo_delivery_dia-das-criancas_conv_rmkt,20210928,330,0,329
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210907,309,37,309
+rec_topo_int_regioes_principale_primavera - BL,20210925,309,6,306
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210905,303,31,302
+rec_topo_int_regioes_principale_primavera - BL,20210927,303,3,301
+rec_topo_int_regioes_principale_primavera - BL,20210928,299,8,300
+rec_topo_int_regioes_principale_primavera - BL,20210912,293,8,294
+rec_topo_int_regioes_principale_primavera - BL,20210922,290,6,287
+rec_topo_int_regioes_principale_primavera - BL,20210929,284,5,283
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210906,278,22,273
+rec_topo_int_regioes_principale_primavera - BL,20210924,267,6,264
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210907,264,29,264
+rec_topo_int_regioes_principale_primavera - BL,20210911,260,5,260
+rec_topo_int_regioes_principale_primavera - BL,20210913,248,6,246
+rec_topo_int_regioes_principale_primavera - BL,20210919,242,4,240
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210904,239,18,239
+rec_topo_int_regioes_principale_primavera - BL,20210921,235,3,234
+rec_topo_int_regioes_principale_primavera - BL,20210918,228,4,226
+rec_topo_int_regioes_principale_primavera - BL,20210916,220,3,216
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210901,215,15,213
+rec_topo_int_regioes_principale_primavera - BL,20210930,208,1,207
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210912,208,22,207
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210908,204,19,205
+rec_topo_int_regioes_principale_primavera+-+BL,20210903,202,0,202
+rec_topo_int_regioes_principale_primavera - BL,20210909,200,7,199
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210911,199,12,198
+rec_topo_int_regioes_speciali_crocante_vegano,20210926,198,10,195
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210930,196,10,196
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210912,194,27,193
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210902,191,14,191
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210929,191,8,190
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210925,190,18,191
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210911,185,16,185
+rec_topo_int_regioes_speciali_crocante_vegano,20210925,185,9,184
+rec_topo_int_regioes_principale_primavera - BL,20210923,184,3,184
+rec_topo_int_regioes_principale_primavera - BL,20210917,183,3,183
+rec_topo_int_regioes_speciali_crocante_vegano,20210924,181,6,180
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210903,180,15,178
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210926,178,10,177
+rec_topo_int_regioes_principale_primavera - BL,20210908,171,8,171
+rec_topo_int_regioes_principale_primavera - BL,20210920,167,1,166
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210928,164,9,163
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210913,160,10,158
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210922,159,6,158
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210919,158,20,158
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210909,157,10,156
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210927,157,10,157
+rec_topo_int_regioes_principale_primavera - BL,20210914,156,6,155
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210919,152,11,152
+rec_topo_int_regioes_principale_primavera - BL,20210910,150,8,150
+rec_topo_int_regioes_speciali_crocante_vegano,20210909,148,0,148
+rec_topo_int_regioes_speciali_crocante_vegano,20210929,145,4,141
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210916,145,14,141
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210908,144,19,144
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210924,143,7,143
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210916,136,6,135
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210909,136,12,136
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210917,134,7,133
+rec_topo_int_regioes_speciali_crocante_vegano,20210928,130,3,128
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210920,128,10,128
+rec_topo_int_regioes_speciali_crocante_vegano,20210913,128,0,124
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210921,127,7,126
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210914,123,8,121
+engaj_post_topo_int,20210912,120,14,120
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210917,120,13,116
+rec_topo_int_regioes_speciali_crocante_vegano,20210922,120,6,117
+rec_topo_int_regioes_speciali_crocante_vegano,20210923,119,7,117
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210918,118,11,118
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210918,117,15,117
+rec_topo_int_regioes_speciali_crocante_vegano,20210930,116,2,116
+rec_topo_int_regioes_speciali_crocante_vegano,20210921,113,4,113
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210913,110,8,108
+rec_topo_int_regioes_principale_primavera - BL,20210915,107,2,106
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210914,106,12,107
+engaj_post_topo_int,20210911,104,25,102
+engaj_post_topo_int,20210924,103,12,102
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210923,97,3,96
+engaj_post_topo_int,20210907,96,13,93
+engaj_post_topo_int,20210919,95,19,94
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210910,95,11,94
+rec_topo_int_regioes_speciali_crocante_vegano,20210927,95,3,94
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210910,93,10,91
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210920,92,8,92
+engaj_post_topo_int,20210904,91,12,91
+engaj_post_topo_int,20210918,85,12,84
+engaj_post_topo_int,20210917,79,8,79
+rec_topo_int_regioes_leva_junto_uma_viagem - BL,20210915,75,6,75
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210906,73,4,71
+engaj_post_topo_int,20210916,70,3,70
+engaj_post_topo_int,20210925,70,17,69
+engaj_post_topo_int,20210920,65,3,65
+engaj_post_topo_int,20210905,63,11,63
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210915,63,5,63
+engaj_post_topo_int,20210921,62,14,61
+conv_lp_semana_do_gelato,20210927,61,1,50
+engaj_post_topo_int,20210908,61,5,60
+engaj_post_topo_int,20210910,61,9,61
+rec_topo_int_regioes_principale_primavera+-+BL,20210930,58,0,58
+2021_brand_topo_delivery_dia-das-crianças_rec_impressions_interesses,20210930,56,3,56
+engaj_post_topo_int,20210909,56,5,55
+engaj_post_topo_int,20210926,54,5,54
+rec_topo_int_regioes_casquinha,20210907,54,4,54
+engaj_post_topo_int,20210914,53,6,52
+rec_topo_int_regioes_speciali_crocante_vegano,20210914,53,3,52
+engaj_post_topo_int,20210902,52,1,52
+2021_brand_topo_delivery_rec_impressions_interesses,20210928,49,0,48
+engaj_post_topo_int,20210913,45,3,45
+engaj_post_topo_int,20210927,45,0,45
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210903,45,1,45
+2021_brand_topo_delivery_rec_impressions_interesses,20210929,44,0,44
+engaj_post_topo_int,20210906,44,6,44
+rec_topo_int_regioes_casquinha,20210922,44,0,44
+engaj_post_topo_int,20210903,43,5,43
+rec_topo_int_regioes_casquinha,20210906,40,3,40
+rec_topo_int_regioes_casquinha,20210925,40,4,40
+rec_topo_int_regioes_casquinha,20210904,39,1,39
+rec_topo_int_regioes_casquinha,20210905,37,1,36
+rec_topo_int_regioes_casquinha,20210914,37,0,36
+rec_topo_int_regioes_casquinha,20210916,37,0,35
+2021_perf_fundo_delivery_dia-das-criancas_conv_lpv_lal,20210929,36,0,36
+rec_topo_int_regioes_casquinha,20210903,36,2,36
+rec_topo_int_regioes_casquinha,20210924,36,2,36
+rec_topo_int_regioes_casquinha,20210901,35,2,35
+rec_topo_int_regioes_casquinha,20210912,35,1,35
+rec_topo_int_regioes_casquinha,20210902,34,1,34
+rec_topo_int_regioes_casquinha,20210908,34,0,33
+rec_topo_int_regioes_casquinha,20210917,34,1,34
+engaj_post_topo_int,20210928,33,0,32
+rec_topo_int_regioes_casquinha,20210930,33,2,33
+rec_topo_int_regioes_casquinha,20210919,32,1,32
+engaj_post_topo_int,20210915,31,6,31
+engaj_post_topo_int,20210923,31,4,31
+rec_topo_int_regioes_casquinha,20210923,31,1,31
+rec_topo_int_regioes_casquinha,20210921,29,2,29
+rec_topo_int_regioes_casquinha,20210913,28,1,28
+rec_topo_int_regioes_casquinha,20210918,28,1,28
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210928,28,0,28
+engaj_post_topo_int,20210922,27,5,27
+rec_topo_int_regioes_casquinha,20210929,27,1,26
+2021_perf_fundo_delivery_dia-das-criancas_conv_lpv,20210928,26,0,26
+rec_topo_int_regioes_casquinha,20210911,26,1,26
+rec_topo_int_regioes_casquinha,20210926,26,2,26
+2021_perf_fundo_delivery_dia-das-criancas_conv_lpv_lal,20210928,25,0,25
+conv_lp_semana_do_gelato,20210928,25,0,22
+impulsionamento_topo_engajamento,20210901,25,1,25
+rec_topo_int_regioes_casquinha,20210909,25,2,25
+rec_topo_int_regioes_casquinha,20210920,25,1,25
+engaj_post_topo_int,20210929,24,0,25
+2021_perf_fundo_delivery_dia-das-criancas_conv_lpv_rmkt,20210928,23,0,23
+rec_topo_int_regioes_casquinha,20210915,23,1,23
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210902,23,0,23
+2021_perf_fundo_delivery_conv_lpv_rmkt,20210929,21,0,21
+rec_topo_int_regioes_casquinha,20210928,21,2,21
+engaj_post_topo_int,20210930,18,0,18
+rec_topo_int_regioes_casquinha,20210910,18,1,18
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210929,18,0,18
+conv_lp_semana_do_gelato,20210929,17,1,14
+rec_topo_int_regioes_casquinha,20210927,16,2,16
+Impulsionamento_Topo_engajamento_2021,20210901,15,5,15
+conv_lp_semana_do_gelato,20210930,14,0,10
+2021_perf_fundo_delivery_dia-das-criancas_conv_rmkt,20210929,13,0,13
+Delivery_Meio_Conv_LAL_042021,20210915,12,1,1
+Delivery_Meio_Conv_LAL_042021,20210909,11,0,3
+Delivery_Meio_Conv_LAL_042021,20210907,9,0,2
+Delivery_Meio_Conv_LAL_042021,20210913,9,0,1
+Delivery_Meio_Conv_LAL_042021,20210906,8,1,2
+Delivery_Meio_Conv_LAL_042021,20210908,8,0,2
+Delivery_Meio_Conv_LAL_042021,20210917,8,0,1
+Delivery_Meio_Conv_LAL_042021,20210911,7,0,2
+impulsionamento_topo_engajamento,20210902,7,2,7
+Impulsionamento_Topo_engajamento_2021,20210902,7,2,7
+rec_topo_int_regioes_speciali_crocante_vegano,20210915,7,1,8
+Delivery_Meio_Conv_LAL_042021,20210912,6,0,2
+Delivery_Meio_Conv_LAL_042021,20210914,6,0,1
+Delivery_Meio_Conv_LAL_042021,20210916,6,0,1
+{{campaign.name}},20210927,5,0,5
+delivery_fundo_conv_RMKT,20210901,4,0,3
+Delivery_Meio_Conv_LAL_042021,20210910,4,0,1
+Delivery_Meio_Conv_LAL_042021,20210918,4,0,1
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210921,4,0,4
+2021_perf_fundo_delivery_conv_lpv_rmkt,20210930,3,0,3
+delivery_fundo_conv_RMKT,20210903,3,0,2
+Delivery_Fundo_Conv_RMKT_042021,20210906,3,0,2
+Delivery_Fundo_Conv_RMKT_042021,20210928,3,0,3
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210930,3,0,3
+delivery_fundo_conv_RMKT,20210908,2,0,2
+delivery_fundo_conv_RMKT,20210909,2,0,1
+delivery_fundo_conv_RMKT,20210910,2,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210901,2,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210908,2,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210910,2,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210911,2,0,2
+Delivery_Fundo_Conv_RMKT_042021,20210914,2,0,2
+Delivery_Fundo_Conv_RMKT_042021,20210916,2,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210920,2,0,1
+delivery_fundo_conv_RMKT_teste_horário,20210907,2,0,1
+Delivery_Meio_Conv_LAL_042021,20210901,2,1,2
+Delivery_Meio_Conv_LAL_042021,20210902,2,0,2
+Delivery_Meio_Conv_LAL_042021,20210921,2,0,1
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210901,2,0,2
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210906,2,1,2
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210910,2,0,2
+rec_topo_int_regioes_principale_leva_junto_uma_viagem — Cópia,20210901,2,0,2
+rec_topo_int_regioes_speciali_crocante_vegano,20210916,2,0,2
+rec_topo_int_regioes_speciali_crocante_vegano,20210917,2,0,2
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210922,2,0,2
+trafego_site,20210901,2,0,2
+trafego_site,20210902,2,0,1
+delivery_fundo_conv_RMKT,20210902,1,0,1
+delivery_fundo_conv_RMKT,20210906,1,0,1
+delivery_fundo_conv_RMKT,20210907,1,0,1
+delivery_fundo_conv_RMKT,20210911,1,0,1
+delivery_fundo_conv_RMKT,20210912,1,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210902,1,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210903,1,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210904,1,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210905,1,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210909,1,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210915,1,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210917,1,0,1
+Delivery_Fundo_Conv_RMKT_042021,20210929,1,0,1
+delivery_fundo_conv_RMKT_teste,20210918,1,0,1
+delivery_fundo_conv_RMKT_teste_horário,20210901,1,0,1
+Delivery_Meio_Conv_LAL_042021,20210903,1,0,1
+Delivery_Meio_Conv_LAL_042021,20210924,1,0,1
+delivery_meio_conv_LAL_teste_horário,20210927,1,0,1
+Delivery_Meio_Trafego_Engaj_042021,20210928,1,0,1
+Delivery_Topo_Reconhecimento_interesses_042021,20210912,1,0,1
+Delivery_Topo_Reconhecimento_Teste1_PE_042021,20210912,1,0,1
+Delivery_Topo_Reconhecimento_Teste1_PE_042021,20210930,1,0,1
+impulsionamento_topo_engajamento,20210909,1,0,1
+impulsionamento_topo_engajamento,20210913,1,0,1
+Impulsionamento_Topo_engajamento_2021,20210910,1,0,1
+Impulsionamento_Topo_engajamento_2021,20210923,1,0,1
+principale_dolce_far_niente_topo_01072021,20210901,1,0,1
+principale_dolce_far_niente_topo_01072021,20210903,1,0,1
+principale_junino_Fundo_RMKT_24/05/2021,20210905,1,0,1
+rac_conv_meio_LAL_perene_2021,20210907,1,0,1
+rac_trafego_meio_engajamento_vegano_2021,20210926,1,0,1
+rac_trafego_topo_LAL_engajamento_vegano_2021,20210920,1,0,1
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210902,1,0,1
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210905,1,1,1
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210916,1,1,1
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210921,1,0,1
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210922,1,1,1
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210927,1,1,1
+rec_topo_int_regioes_principale_leva_junto_uma_viagem — Cópia,20210902,1,0,1
+rec_topo_int_regioes_principale_leva_junto_uma_viagem — Cópia,20210913,1,0,1
+rec_topo_int_regioes_principale_primavera+-+BL,20210910,1,0,1
+rec_topo_int_regioes_principale_primavera+-+BL,20210913,1,0,1
+rec_topo_int_regioes_principale_primavera+-+BL,20210917,1,1,1
+rec_topo_int_regioes_principale_primavera+-+BL,20210924,1,0,1
+rec_topo_int_regioes_principale_primavera+-+BL,20210927,1,0,1
+rec_topo_int_regioes_principale_primavera+-+BL,20210928,1,0,1
+rec_topo_int_regioes_speciali_crocante_vegano,20210918,1,0,1
+rec_topo_int_regioes_speciali_crocante_vegano,20210919,1,0,1
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210923,1,0,1
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210926,1,0,1
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210927,1,0,1
+rec_topo_int_regioes_speciali_ninho_al_cafe,20210928,1,0,1
+speciali_sabores_conv_2021,20210901,1,0,1
+speciali_sabores_conv_2021,20210906,1,0,1
+speciali_sabores_conv_2021,20210914,1,0,1
+speciali_sabores_conv_2021,20210927,1,0,1
+speciali_sabores_conv_26052021,20210921,1,0,1
+speciali_sabores_conv_RMKT_e_LAL,20210902,1,0,1
+Topo_Reconhecimento_DiadasMaes_01/05/2021,20210924,1,0,1
+trafego_site,20210904,1,0,1
+trafego_site,20210925,1,0,1
+conv_lp_semana_do_gelato,20210917,0,0,11
+rec_topo_int_regioes_leva_junto_uma_viagem+-+BL,20210904,0,0,1
+,,101.746,21.032,101.065
+
+Índice do dia,Sessões
+01/09/2021,1.818
+02/09/2021,2.057
+03/09/2021,2.594
+04/09/2021,1.605
+05/09/2021,1.719
+06/09/2021,1.798
+07/09/2021,2.919
+08/09/2021,2.628
+09/09/2021,2.893
+10/09/2021,1.938
+11/09/2021,3.155
+12/09/2021,3.662
+13/09/2021,2.213
+14/09/2021,2.830
+15/09/2021,1.397
+16/09/2021,2.343
+17/09/2021,2.076
+18/09/2021,2.721
+19/09/2021,3.176
+20/09/2021,5.745
+21/09/2021,6.036
+22/09/2021,5.473
+23/09/2021,6.732
+24/09/2021,7.552
+25/09/2021,6.882
+26/09/2021,5.560
+27/09/2021,2.218
+28/09/2021,3.101
+29/09/2021,3.674
+30/09/2021,3.231
+,101.746
