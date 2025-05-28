@@ -26,6 +26,25 @@ Os dados retratam um cliente real da agência de marketing digital Raccoon, logo
 
 </div>
 
+### Resultado
+ <div text-align="justify" align="justify">    
+Com as análises foi possível verificar como as ações de marketing influênciava a receita das marcas, possibilitando elaborar uma curva de tendência, que convergil com a realidade, além de verificar as principais métricas de influência.
+
+
+  &nbsp;
+<div align="center" >   
+ 
+![image](https://github.com/RogerMarcondes/Analise_Regressao_Multivariada/blob/4ec3a69ff13f38a368ce4a286a9f17277f195427/AnaliseExploratoriaRegressaoMultiplaPython/trend.png)
+
+</div>
+
+
+Como resumido no material: [`Apresentação.pdf`](./Apresentação.pdf)
+
+</div>
+
+<!-- TODO: Add video -->
+
 ## Conteúdo do projeto
 
  - [`Apresentação.pdf`](./Apresentação.pdf) - Apresentação completa, com todas as informações:
@@ -43,8 +62,3 @@ Os dados retratam um cliente real da agência de marketing digital Raccoon, logo
 #### Dependências
  -  R>=3.5
  -  JupiterNotebook>=6.0.0
-  year         = {2024},
-  howpublished = {\url{https://github.com/illiamw/Light_Domain_Adaptation}},
-  note         = {Acesso em: XX out. 2XXX}
-}
-```
