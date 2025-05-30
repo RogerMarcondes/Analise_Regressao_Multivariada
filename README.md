@@ -34,7 +34,7 @@ Os dados referem-se a um cliente real da agência de marketing digital Raccoon, 
 
 ### Resultado
  <div text-align="justify" align="justify">    
-As análises permitiram verificar como as ações de marketing influenciam diretamente a receita das marcas, possibilitando a elaboração de uma curva de tendência condizente com a realidade observada. Além disso, foi possível identificar as principais métricas com maior impacto no faturamento, contribuindo para decisões mais estratégicas na alocação de recursos de mídia.
+As análises permitiram verificar como as ações de marketing influenciam diretamente a receita das marcas, possibilitando a elaboração de uma curva de tendência condizente com a realidade observada. Além disso, foi possível identificar as principais métricas com maior impacto no faturamento, contribuindo para a tomada de decisões mais estratégicas na alocação dos recursos de mídia.
 
 
   &nbsp;
@@ -45,7 +45,7 @@ As análises permitiram verificar como as ações de marketing influenciam diret
 </div>
 
 
-Como resumido no material: [`Apresentação.pdf`](./Apresentação.pdf)
+Material para a apresentação: [`Apresentação.pdf`](./Apresentação.pdf)
 
 </div>
 
@@ -53,14 +53,14 @@ Como resumido no material: [`Apresentação.pdf`](./Apresentação.pdf)
 
 ## Conteúdo do projeto
 
- - [`Apresentação.pdf`](./Apresentação.pdf) - Apresentação completa, com todas as informações:
+ - [`Apresentação.pdf`](./Apresentação.pdf) - Apresentação, com todas as informações:
     - Motivação do problema
     - Métodos de coleta e limpeza dos dados
     - Análise exploratória e estudo de correlação das variáveis
     - Desenvolvimento e execução dos modelos
     - Avaliação de resultados. 
- - [`AnaliseExploratoriaR\`](./AnaliseExploratariaR/) - Repositório do projeto baseado em R para análise exploratória e experimentação dos modelos de regressão 
- - [`AnaliseExploratoriaRegressaoMultiplaPython\`](./AnaliseExploratoriaRegressaoMultiplaPython/) - Repositório do projeto baseado em Python para análise exploratória, limpeza de dados, kfolds dos modelos de regressão, com aplicação dos métodos de avaliação de modelo VIF 
+ - [`AnaliseExploratoriaR\`](./AnaliseExploratariaR/) - Repositório do projeto em R para a análise exploratória e experimentação dos modelos de regressão 
+ - [`AnaliseExploratoriaRegressaoMultiplaPython\`](./AnaliseExploratoriaRegressaoMultiplaPython/) - Repositório do projeto em Python para a análise exploratória, limpeza de dados, kfolds dos modelos de regressão, com aplicação dos métodos de avaliação de modelo VIF 
 
 
 ### Como Executar
