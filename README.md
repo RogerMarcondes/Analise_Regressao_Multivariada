@@ -1,7 +1,7 @@
 <div align="center">    
  
 ## Análise Estatística em Marketing Digital
-#### Trabalho de conclusão de curso apresentado como parte dos requisitos do para a obtenção do título de Bacharel em Estatística da Universidade de São Paulo - USP.
+#### Trabalho de Conclusão de Curso apresentado como parte dos requisitos para a obtenção do título de Bacharel em Estatística pela Universidade de São Paulo – USP.
 
 
 </div>
@@ -12,23 +12,29 @@
 
 
  <div text-align="justify" align="justify">    
-Em campanhias de markting digital estamos interesados em realizar conversões atráves de divulgação de conteúdo na mídias sociais, entenda-se como conversão influenciar um determinado público alvo em realização uma ação, como comprar produtos, contratar serviços, criar vinculo fidelidade, ou seja, qualquer ação que o cliente bunisses necessite. O uso das ferramentas de divulgação em mídias sociais está atrelado a métricas de divulgação (por exemplo, alcance, cliques, retenção, interações com o material divulgado) ao processo de conversão, também conhecido como "Fúnil de conversão" recebendo este nome devido ao formato da densidade do público envolvido em cada etapa ( camada do fúnil ) do processo. Em cada camada do fúnil temos o uso de combinações de métricas configuraveis nas plataformas de campanhia como metas para determinado material de divulgação, sendo que o valor investido em cada meta é estimado pela plataforma, mas pode ou não alcançar a meta determinado, resulmidamente, é analisado a performance de determinada métrica verificando o resultado alcançado com o estimado e conforme avaliado a divulgação é descontinuada, modificada, ou substituida. 
 
-  Portanto, o estudo realizado neste documento contempla a análise de impacto das mídias para o faturamento total, e visto o projeto e seleção de modelo de regressão viável realizar predições a cerca do faturamento pelas mídias e suas métricas.
+Em campanhas de marketing digital, estamos interessados em gerar conversões por meio da divulgação de conteúdo nas mídias sociais. Entende-se por conversão a influência sobre um determinado público-alvo para que realize uma ação, como comprar produtos, contratar serviços ou criar vínculo de fidelidade. Em outras palavras, trata-se de qualquer ação que o cliente de um negócio deseje como resultado da divulgação.
+</div>
+O uso das ferramentas de mídias sociais está atrelado a diversas métricas de desempenho (por exemplo, alcance, cliques, tempo de retenção e interações com o material), todas associadas ao processo conhecido como funil de conversão — assim chamado devido à diminuição progressiva do número de usuários em cada etapa do processo.
+</div>
+Em cada camada do funil, diferentes combinações de métricas são configuradas como metas dentro das plataformas de campanha. O valor investido por meta é estimado pelas plataformas, mas o atingimento dessa meta pode ou não ocorrer. De forma resumida, avalia-se o desempenho de determinada métrica comparando o resultado alcançado com o estimado. Com base nessa avaliação, a divulgação pode ser descontinuada, ajustada ou substituída.
+</div>
+Portanto, o estudo apresentado neste documento contempla a análise do impacto das mídias digitais no faturamento total, bem como o desenvolvimento e a seleção de modelos de regressão capazes de realizar predições do faturamento com base nas métricas e investimentos realizados em cada mídia.
 </div>
 
 
 ### Conteúdo da base de dados
  <div text-align="justify" align="justify">    
-Os dados utilizados para este trabalho, descrevem as métricas de divulgação do conteúdo associado ao faturamento obtido com as conversões, e cada mídia (google, facebook, instagram e tiktok) possuem sua plataforma, logo cada qual com suas métricas e investimento correspondente. 
-Os dados retratam um cliente real da agência de marketing digital Raccoon, logo todas as referências ao cliente como título de campanhia seram omitidos presenvando a unicidade das tuplas nas tabelas obtidas, com exceção a substituição da identidade do cliente os demais pré-processamentos e tratamento do banco de dados - como formatação, tratamento de valores Nan, tuplas duplicas -  seram matidas no tópico correspondente. 
+Os dados utilizados neste trabalho descrevem métricas de divulgação de conteúdo associadas ao faturamento obtido por meio das conversões. Cada mídia (Google, Facebook, Instagram e TikTok) possui sua própria plataforma, com métricas e investimentos específicos.
+</div>
+Os dados referem-se a um cliente real da agência de marketing digital Raccoon, portanto, todas as referências diretas ao cliente, como os nomes das campanhas, foram omitidas para preservar a confidencialidade e a unicidade das tuplas nas tabelas. Com exceção da substituição da identidade do cliente, os demais procedimentos de pré-processamento e tratamento dos dados — como formatação, remoção de valores NaN e eliminação de tuplas duplicadas — foram mantidos e estão detalhados no tópico correspondente.
 
 
 </div>
 
 ### Resultado
  <div text-align="justify" align="justify">    
-Com as análises foi possível verificar como as ações de marketing influênciava a receita das marcas, possibilitando elaborar uma curva de tendência, que convergil com a realidade, além de verificar as principais métricas de influência.
+As análises permitiram verificar como as ações de marketing influenciam diretamente a receita das marcas, possibilitando a elaboração de uma curva de tendência condizente com a realidade observada. Além disso, foi possível identificar as principais métricas com maior impacto no faturamento, contribuindo para decisões mais estratégicas na alocação de recursos de mídia.
 
 
   &nbsp;
@@ -50,7 +56,7 @@ Como resumido no material: [`Apresentação.pdf`](./Apresentação.pdf)
  - [`Apresentação.pdf`](./Apresentação.pdf) - Apresentação completa, com todas as informações:
     - Motivação do problema
     - Métodos de coleta e limpeza dos dados
-    - Análise exploratória e estudo de correlação de variáveis
+    - Análise exploratória e estudo de correlação das variáveis
     - Desenvolvimento e execução dos modelos
     - Avaliação de resultados. 
  - [`AnaliseExploratoriaR\`](./AnaliseExploratariaR/) - Repositório do projeto baseado em R para análise exploratória e experimentação dos modelos de regressão 
